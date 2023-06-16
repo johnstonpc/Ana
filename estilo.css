@@ -1,0 +1,55 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+#contudo5,
+#contudo4,
+#contudo4,
+#contudo3,
+#contudo2,
+#contudo1 {
+    height: 100vh;
+    font-size: 50px;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#botao {
+    width: 90px;
+    border-radius: 5px;
+    background-color: aqua;
+    display: flex;
+    margin: 0% auto;
+
+}
+
+#contudo1{
+    background-color: #d4bbdd;
+}
+
+#contudo2{
+    background-color: #d1ba48;
+}
+
+
+#contudo3{
+    background-color: #fa26a0;
+}
+
+
+#contudo4{
+    background-color: #e2363b;
+}
+
+
+#contudo5{
+    background-color: #d780f7;
+}
+a{
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
