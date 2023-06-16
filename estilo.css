@@ -1,3 +1,9 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+
+
 html {
     scroll-behavior: smooth;
 }
@@ -14,6 +20,7 @@ html {
     width: 100%;
     text-align: center;
     padding-top: 20px;
+    font-family: 'Lobster', cursive;
 }
 
 #botao {
