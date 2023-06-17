@@ -9,6 +9,7 @@
 
 html {
     scroll-behavior: smooth;
+  background-color: black;
 }
 
 
@@ -24,6 +25,7 @@ html {
     text-align: center;
     padding-top: 20px;
     font-family: 'Lobster', cursive;
+  border-radius: 40px;
     
 }
 
