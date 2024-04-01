@@ -18,7 +18,8 @@ html {
 #contudo4,
 #contudo3,
 #contudo2,
-#contudo1 {
+#contudo1,
+#contudo6{
     height: 100vh;
     font-size: 55px;
     width: 100%;
@@ -49,7 +50,7 @@ html {
 }
 
 
-#contudo3{
+#contudo3,#contudo6{
     background-color: #fa26a0;
 }
 
